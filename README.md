@@ -50,4 +50,4 @@
 
 ------
 
-<img src="E:\github\test_gpu_animation\README\1.gif" style="zoom: 33%;" />
+<img src="README\1.gif" style="zoom: 50%;" />
