@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/node": "^24.0.1"
+  },
+  "dependencies": {
+    "sharp": "^0.34.2"
+  },
+  "scripts": {
+    "test": "tsc && node dist/plist2png static/test.json"
+  }
+}
