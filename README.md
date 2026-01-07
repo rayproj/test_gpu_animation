@@ -2,7 +2,7 @@
 
 将帧动画转为GPU帧动画，通过shader进行播放，隔绝CPU开销。
 
-通过将任意图集进行生成，保留了多动画可合批、图集利用率高、可任意排序和空白裁剪等优点，同时支持平铺。
+通过对任意图集进行生成，保留了多动画可合批、图集利用率高、可任意排序和空白裁剪等优点，同时支持平铺。
 
 ### 如何使用
 
@@ -46,8 +46,8 @@
 
 - shader解析、播放
 
-<img src="README\2.png" style="zoom:33%;" />
+<img src="README\2.png" style="zoom: 25%;" />
 
 ------
 
-<img src="E:\github\test_gpu_animation\README\1.gif" style="zoom: 50%;" />
+<img src="E:\github\test_gpu_animation\README\1.gif" style="zoom: 33%;" />
