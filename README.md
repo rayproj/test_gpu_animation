@@ -46,7 +46,7 @@
 
 - shader解析、播放
 
-<img src="README\2.png" style="zoom: 25%;" />
+<img src="README\2.png" style="zoom: 10%;" />
 
 ------
 
